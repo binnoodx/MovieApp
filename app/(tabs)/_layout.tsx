@@ -42,6 +42,7 @@ const _layout = () => {
             }
         }}>
 
+            
             <Tabs.Screen
                 name='index'
                 options={{
