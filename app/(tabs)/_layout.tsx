@@ -89,7 +89,6 @@ const _layout = () => {
 
             />
             <Tabs.Screen
-
                 name='profile'
                 options={{
                     headerShown: false,
@@ -98,16 +97,12 @@ const _layout = () => {
                         <>
 
                             <PillTabs focused={focused} icon={icons.person} title="Profile" />
-
                         </>
                     )
                 }}
 
             />
-
-
         </Tabs>
     )
 }
-
 export default _layout
