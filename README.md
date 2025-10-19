@@ -1,4 +1,4 @@
-# Hello👋 , This is starting template for Expo which include tailwindcss for styling. 
+# Hello👋 , This is starting template for Expo which include tailwindcss for styling.  
 
 
 ## Get started
